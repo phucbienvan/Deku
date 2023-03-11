@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0",
+    "openzeppelin-solidity": "^4.6.0",
+    "web3": "^1.8.2"
+  }
+}
