@@ -396,5 +396,6 @@ async function interact() {
         gas: 3000000
     });
     console.log(result);
+    
 }
 interact()
