@@ -379,7 +379,7 @@ const dekuAbi = [
       "type": "function"
     }
   ];
-const dekuAddress = "0xDe7Eab9449956740fb4Be395d774307661Cad692"
+const dekuAddress = "0x890FcA361490926dd0D973D85B85AC555d96452F"
 const privateKey = process.env.PRIVATE_KEY
 const publicKey = process.env.PUBLIC_KEY
 const receiveAddress = process.env.RECEIVER_ADDRESS
