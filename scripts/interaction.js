@@ -394,8 +394,6 @@ async function interact() {
     result = await dekuContract.methods.transfer(receiveAddress, 1000000).send({
         from: publicKey,
         gas: 3000000
-    });
-    console.log(result);
-    
+    });    
 }
 interact()
